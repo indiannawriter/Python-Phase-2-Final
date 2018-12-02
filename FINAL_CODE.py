@@ -174,7 +174,7 @@ from sklearn.preprocessing import StandardScaler
 # Create scaler: scaler
 scaler = StandardScaler()
 
-%matplotlib inline
+#matplotlib inline
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
 from sklearn.pipeline import make_pipeline
